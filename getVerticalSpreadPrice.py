@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Get Vertical SpreadPrice
-@author: Adam Getbags
+@author: Adam Reinhold Von Fisher
 """
 
 #import modules
