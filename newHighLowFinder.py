@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 SP500 Internals
-@author: Adam Getbags
+@author: Adam Reinhold Von Fisher
 """
 
 #import modules
