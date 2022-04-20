@@ -2,7 +2,7 @@
 """
 Get Option Volume By Expiration
 
-@author: Adam Getbags
+@author: Adam Reinhold Von Fisher
 """
 
 #import modules
