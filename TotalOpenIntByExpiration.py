@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Get Total Option Open Interest By Expiration
-@author: Adam Getbags
+@author: Adam Reinhold Von Fisher
 """
 
 #import modules
