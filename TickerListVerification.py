@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: AdamGetbags
+@author: Adam Reinhold Von Fisher
 
 """
 
