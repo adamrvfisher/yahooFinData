@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Options Volume By Expiration With yahoo_fin
-@author: Adam Getbags
+@author: Adam Reinhold Von Fisher
 """
 
 #import modules
