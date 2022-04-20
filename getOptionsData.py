@@ -2,7 +2,7 @@
 """
 Get Options Data With yahoo_fin
 
-@author: Adam Getbags
+@author: Adam Reinhold Von Fisher
 """
 
 #import modules
